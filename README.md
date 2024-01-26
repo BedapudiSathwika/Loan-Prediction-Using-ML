@@ -1,2 +1,2 @@
-# Loan-Prediction-Using-ML
-More than 10 million people are living with Parkinson’s Disease worldwide, according to the Parkinson’s Foundation. While Parkinson’s cannot be cured, early detection along with proper medication can significantly improve symptoms and quality of life.
+# Loan-prediction-using-ML
+Loan prediction is a common use case for machine learning. The task is to build a model that can predict whether a loan application will be approved or not based on various features such as credit history, income, loan amount, employment status, etc.
